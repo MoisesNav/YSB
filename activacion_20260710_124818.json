@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260710_124818",
+    "offer_id": "1709902039",
+    "titular": {
+        "nombre": "black",
+        "apellido": "plus",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063032980693",
+    "http_status": 200,
+    "respuesta_cruda": "{\"status\":\"submitted\",\"orderStatus\":\"submitted\",\"orderReference\":\"0RF-M77-G600\",\"customerAccountId\":\"a363622d-c622-4d1c-a362-2dc6223d1c0c\",\"errorCode\":\"0\",\"errorMessage\":\"Éxito\"}"
+}

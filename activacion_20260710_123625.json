@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260710_123625",
+    "offer_id": "1709902039",
+    "titular": {
+        "nombre": "black",
+        "apellido": "plus",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063033055677",
+    "http_status": 400,
+    "respuesta_cruda": "{\"status\":\"failed\",\"errorMessage\":\"ICC no pertenece al dealer\",\"errorCode\":\"4\",\"detailedError\":\"ICC does not belong to dealer stock that is provided in input \"}"
+}

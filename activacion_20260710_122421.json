@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260710_122421",
+    "offer_id": "1709902039",
+    "titular": {
+        "nombre": "black",
+        "apellido": "plus",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063033055685",
+    "http_status": 400,
+    "respuesta_cruda": "{\"status\":\"error\",\"errorMessage\":\"SIM Card no existe\",\"errorCode\":\"2\",\"detailedError\":\"Sim-card or icc id is incorrect OR SIM Card does not exist\"}"
+}
