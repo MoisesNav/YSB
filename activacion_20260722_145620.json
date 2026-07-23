@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260722_145620",
+    "offer_id": "1709902044",
+    "titular": {
+        "nombre": "black",
+        "apellido": "plus",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063032910815",
+    "http_status": 200,
+    "respuesta_cruda": "{\"status\":\"submitted\",\"orderStatus\":\"submitted\",\"orderReference\":\"0RK-LPC-5V00\",\"customerAccountId\":\"3861ebcc-b0b7-4ebf-a1eb-ccb0b7eebf8a\",\"errorCode\":\"0\",\"errorMessage\":\"Éxito\"}"
+}

@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260721_124217",
+    "offer_id": "1709902044",
+    "titular": {
+        "nombre": "BLACK",
+        "apellido": "PLUS",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063032911003",
+    "http_status": 200,
+    "respuesta_cruda": "{\"status\":\"submitted\",\"orderStatus\":\"submitted\",\"orderReference\":\"0RK-96C-1V00\",\"customerAccountId\":\"d21506fd-dd1d-4883-9506-fddd1d488347\",\"errorCode\":\"0\",\"errorMessage\":\"Éxito\"}"
+}

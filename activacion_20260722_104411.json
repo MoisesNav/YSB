@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260722_104411",
+    "offer_id": "1709902044",
+    "titular": {
+        "nombre": "black",
+        "apellido": "plus",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063032911250",
+    "http_status": 200,
+    "respuesta_cruda": "{\"status\":\"submitted\",\"orderStatus\":\"submitted\",\"orderReference\":\"0RK-JUB-1V00\",\"customerAccountId\":\"c194092a-29fe-49c2-9409-2a29fe99c265\",\"errorCode\":\"0\",\"errorMessage\":\"Éxito\"}"
+}

@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260713_105053",
+    "offer_id": "1709902044",
+    "titular": {
+        "nombre": "Black",
+        "apellido": "plus",
+        "email": "conectadaspormexico@gmail.com"
+    },
+    "iccid": "8952140063032911193",
+    "http_status": 200,
+    "respuesta_cruda": "{\"status\":\"submitted\",\"orderStatus\":\"submitted\",\"orderReference\":\"0RG-L08-U600\",\"customerAccountId\":\"13da6586-f8d6-456c-9a65-86f8d6a56cd8\",\"errorCode\":\"0\",\"errorMessage\":\"Éxito\"}"
+}

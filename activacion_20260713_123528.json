@@ -1,0 +1,12 @@
+{
+    "timestamp": "20260713_123528",
+    "offer_id": "1709902045",
+    "titular": {
+        "nombre": "Felix",
+        "apellido": "Loreto Diaz",
+        "email": "felixldc@hotmail.com"
+    },
+    "iccid": "8952140063118350902",
+    "http_status": 200,
+    "respuesta_cruda": "{\"status\":\"submitted\",\"orderStatus\":\"submitted\",\"orderReference\":\"0RG-LQV-L600\",\"customerAccountId\":\"dbc7bfa3-9063-4b1b-87bf-a390635b1b04\",\"errorCode\":\"0\",\"errorMessage\":\"Éxito\"}"
+}
